@@ -1,124 +1,126 @@
-<h1 align="center">Hello there! 👋 I'm Amit</h1>
-<h3 align="center">A Curious Software Developer Crafting Engaging Digital Experiences from India 🌏</h3>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=techsavvyamit&label=Profile%20views&color=0e75b6&style=flat" alt="techsavvyamit" />
-</p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF" width="500" height="300"/>
-</p>
-
----
-
-### 🔭 Current Endeavors
-- 🚀 **Built:** [FitHub](https://github.com/TechSavvyAmit/FitHub), [Chess Master](https://github.com/TechSavvyAmit/chess_master) — a fitness tracking platform and a chess game with multiplayer functionality.  
-- 🌱 **Exploring:** **React Native**, **Machine Learning**, **Deep Learning**, and other cutting-edge technologies.
-
----
-
-### 👨‍💻 My Digital Playground
-- 🛠️ All my creations and experiments are hosted on [GitHub](https://github.com/TechSavvyAmit). Come, take a peek!  
-- 📜 Curious about my professional journey? [View my résumé here.](https://drive.google.com/file/d/1pmlQZj93KnhRfzb_EIBpZyntjNn8qoXS/view?usp=sharing)  
-
----
-
-### 📬 Let’s Connect!
-- 📧 Drop me a line at **amitk704200@gmail.com**  
-- 🐦 Follow my tweets: [Twitter](https://twitter.com/tech_savvy_amit)  
-- 💼 Let’s network: [LinkedIn](https://linkedin.com/in/techsavvyamit)  
-- 📷 Capture the moments: [Instagram](https://www.instagram.com/amiiithe_amit/)  
-- 💡 Dive into my thoughts: [GeeksForGeeks](https://auth.geeksforgeeks.org/user/amitk704200/)  
-
---- 
-
-### 🛠️ Languages and Tools
-
-**Languages:**
-<p align="left">
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
-  </a>
-  <a href="https://www.cplusplus.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
-  </a>
-  <a href="https://www.javascript.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  </a>
-  <a href="https://www.java.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="SQL" width="40" height="40"/>
-  </a>
-</p>
-
-**Frontend Technologies/Frameworks:**
-<p align="left">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
-  </a>
-  <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original-wordmark.svg" alt="Bootstrap" width="40" height="40"/>
-  </a>
+<div align="center">
+  <!-- Animated Typing Header -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=FFD700&center=true&vCenter=true&width=500&lines=Amit+Kumar;Full+Stack+Developer;ECE+@+NIT+Kurukshetra;Building+Digital+Solutions" alt="Typing animation" />
   
-</p>
-
-**Backend Technologies/Frameworks:**
-<p align="left">
-  <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
-  </a>
-  <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express" width="40" height="40"/>
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
-  </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" alt="Git" width="40" height="40"/>
-  </a>
-  <a href="https://github.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" alt="GitHub" width="40" height="40"/>
-  </a>
+  <!-- Contact Info -->
+  <p align="center">
+    <a href="tel:+917042008251">
+      <img src="https://img.shields.io/badge/-%2B91%207042008251-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone">
+    </a>
+    <a href="mailto:nitkkr.amit07@gmail.com">
+      <img src="https://img.shields.io/badge/-nitkkr.amit07%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+    </a>
+  </p>
   
-</p>
+  <!-- Profile Views -->
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=techsavvyamit&label=Profile%20views&color=FF69B4&style=for-the-badge" alt="Profile Views" />
+  </p>
+  
+  <!-- GitHub Trophies -->
+  <img src="https://github-profile-trophy.vercel.app/?username=techsavvyamit&theme=radical&row=1&no-frame=true" alt="Trophies" />
+  
+  <!-- Animated Divider -->
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
+</div>
 
+## 🎓 <span style="color: #FFA500; text-shadow: 0 0 8px #FFA500;">Education</span>
+- **Bachelor of Technology in ECE**  
+  🏛️ National Institute of Technology, Kurukshetra  
+  📊 **CGPA: 7.68/10**  
+  <img src="https://geps.dev/progress/77?dangerColor=800000&warningColor=ff9900&successColor=006600" width="200" alt="CGPA Progress">
+  
+- **Senior Secondary (XII)**  
+  🏫 Rattan Convent School  
+  🎯 **Percentage: 78%**
+  
+- **Secondary (X)**  
+  🏫 Arqam Academy Sr. Sec. School  
+  🎯 **Percentage: 76%**
 
----
+## 💼 <span style="color: #00FFFF; text-shadow: 0 0 8px #00FFFF;">Experience</span>
+### 🔧 **AIDEOA** (Oct 2024 - Present)
+**Full Stack Developer (Remote)**
+- Built UI with bulk export feature
+- Designed interactive cards (+20% engagement)
+- Integrated PayU payment gateway
+- Automated emails with EmailJS
 
-### 🌟 Fun Fact  
-💡 Did you know? I debug like I’m Sherlock Holmes, write code like I’m crafting poetry, and yet… my `console.log` is my best friend!  
+### 🤖 **Edunet Foundation** (Dec 2024 - Jan 2025)
+**AI Intern (Remote)**
+- Completed Microsoft & SAP AI training
+- Developed "Shopping Trend Analysis" project
+- Analyzed customer behavior with Python
 
----
+## 🛠️ <span style="color: #9370DB; text-shadow: 0 0 8px #9370DB;">Tech Stack</span>
+<div align="center">
+  
+**Languages**  
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=techsavvyamit&show_icons=true&locale=en&layout=compact" alt="techsavvyamit" />
-</p>
+**Frontend**  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 
-### 👋 Goodbye and Thank You!  
-💻 Thanks for stopping by! Keep coding, stay curious, and let’s create something amazing together.  
+**Backend**  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
 
-<p align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" alt="CSS Perfection" width="500"/>
-</p>
+**Tools**  
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+</div>
 
----
+# 🚀 <span style="color: #FF69B4; text-shadow: 0 0 8px #FF69B4;">Projects</span> 
 
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwft
-::contentReference[oaicite:1]{index=1}
- 
+### ♟️ [Chess Master](https://github.com/TechSavvyAmit/chess_master)  
+Multiplayer chess game with WebSocket  
+✅ Real-time gameplay  
+✅ Player matchmaking  
+✅ Move validation  
 
+### 🔢 [Sorting Algorithm Visualizer](https://sorting-algo-visualizer-dun.vercel.app/)  
+Interactive sorter with real-time visuals (Jul 2024 - Oct 2024)  
+🛠️ Tools: HTML, CSS, D3.js, Data Structures & Algorithms  
+✅ Built a real-time sorting visualizer supporting 5+ sorting algorithms (Bubble, Quick, Merge, etc.)  
+✅ Implemented interactive controls for speed adjustments and dataset selection, enhancing usability  
+✅ Used D3.js for smooth animations, improving algorithm comprehension for learners  
+
+### 🏋️ [FitHub](https://github.com/TechSavvyAmit/FitHub)  
+Fitness tracking platform with React and Node.js  
+✅ User profiles & workout tracking  
+✅ Nutrition planning features  
+✅ Progress visualization 
+
+## 📊 <span style="color: #FFD700; text-shadow: 0 0 8px #FFD700;">GitHub Stats</span>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=techsavvyamit&show_icons=true&theme=radical" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=techsavvyamit&layout=compact&theme=radical" width="300" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=techsavvyamit&theme=radical" width="400" />
+</div>
+
+## 📬 <span style="color: #7CFC00; text-shadow: 0 0 8px #7CFC00;">Connect</span>
+<div align="center">
+  <a href="https://linkedin.com/in/techsavvyamit">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://github.com/TechSavvyAmit">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <a href="https://portfolio-techsavvyamits-projects.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio">
+  </a>
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3000&pause=1000&color=FF69B4&width=435&lines=Thanks+for+visiting!;Let's+connect+and+build+something+amazing;Keep+coding+%E2%9C%A8" alt="Footer" />
+</div>
