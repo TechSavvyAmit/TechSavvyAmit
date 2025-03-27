@@ -108,7 +108,7 @@ Fitness tracking platform with React and Node.js
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=techsavvyamit&theme=radical" width="400" />
 </div>
 
-## 📬 <span style="color: #7CFC00; text-shadow: 0 0 8px #7CFC00;">Connect</span>
+## 📬 <span style="display: inline-block; color: #7CFC00; text-shadow: 0 0 8px #7CFC00; transform: rotate(-1deg);">Connect</span>
 <div align="center">
   <a href="https://linkedin.com/in/techsavvyamit">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
@@ -121,6 +121,7 @@ Fitness tracking platform with React and Node.js
   </a>
 </div>
 
+<!-- Animated Footer -->
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3000&pause=1000&color=FF69B4&width=435&lines=Thanks+for+visiting!;Let's+connect+and+build+something+amazing;Keep+coding+%E2%9C%A8" alt="Footer" />
 </div>
