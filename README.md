@@ -107,8 +107,14 @@ Fitness tracking platform with React and Node.js
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=techsavvyamit&theme=radical" width="400" />
 </div>
 
-## 📬 <span style="display: inline-block; color: #7CFC00; text-shadow: 0 0 8px #7CFC00; transform: rotate(-1deg);">Connect</span>
+## 📬 <span style="color: #7CFC00; text-shadow: 0 0 5px #7CFC00, 0 0 10px #7CFC00, 0 0 20px #00FF00;">Let's Connect & Create Magic! 🌟</span>
+
+<!-- 🔗 Social Links (Center-Aligned) -->
+</span>
+<!-- 🌟 Connect with Me -->
 <div align="center">
+  <h3>🚀 Let's Build the Future Together</h3>
+  
   <a href="https://linkedin.com/in/techsavvyamit">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
@@ -116,11 +122,20 @@ Fitness tracking platform with React and Node.js
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
   <a href="https://portfolio-techsavvyamits-projects.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio">
+    <img src="https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio">
   </a>
 </div>
 
-<!-- Animated Footer -->
+<!-- 🎉 Animated Footer -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3000&pause=1000&color=FF69B4&width=435&lines=Thanks+for+visiting!;Let's+connect+and+build+something+amazing;Keep+coding+%E2%9C%A8" alt="Footer" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3000&pause=1000&color=FF69B4&width=435&lines=Thanks+for+visiting!+%F0%9F%99%8F;Let's+connect+and+build+something+amazing+%F0%9F%9A%80;Keep+coding+and+stay+awesome+%E2%9C%A8;Open+to+collaborations+and+fun+projects+%F0%9F%8E%89" alt="Footer" />
+</div>
+
+<!-- 🌈 Fun ASCII Art -->
+<div align="center">
+  <pre>
+  (\_/)  
+  ( •_•)  
+  />❤  Keep spreading the coding love!
+  </pre>
 </div>
