@@ -28,7 +28,6 @@
 - **Bachelor of Technology in ECE**  
   🏛️ National Institute of Technology, Kurukshetra  
   📊 **CGPA: 7.68/10**  
-  <img src="https://geps.dev/progress/77?dangerColor=800000&warningColor=ff9900&successColor=006600" width="200" alt="CGPA Progress">
   
 - **Senior Secondary (XII)**  
   🏫 Rattan Convent School  
