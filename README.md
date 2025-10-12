@@ -143,16 +143,6 @@ A **Low-Level System Design (LLD)** project showcasing real-world architecture a
 
 ---
 
-## 📊 GitHub Stats  
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TechSavvyAmit&show_icons=true&theme=tokyonight" width="420" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TechSavvyAmit&theme=tokyonight" width="420" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TechSavvyAmit&layout=compact&theme=tokyonight" width="350" />
-</div>
-
----
-
 ## 🌐 Connect with Me  
 
 <div align="center">
