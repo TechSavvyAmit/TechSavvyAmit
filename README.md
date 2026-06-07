@@ -14,45 +14,103 @@
 
 # 👨‍💻 About Me
 
-```cpp
-class Amit {
-public:
-    
-    string role = "Software Engineer";
+Software Engineer focused on **Backend Development**, **System Design**, and **Cloud Engineering**.
 
-    vector<string> interests = {
-        "Backend Development",
-        "System Design",
-        "Cloud Engineering",
-        "Low Level Design",
-        "Scalable Architectures"
-    };
+Currently building production-grade applications at **Raja Software Labs**, with experience designing scalable systems, REST APIs, cloud-native solutions, and low-level design projects.
 
-    vector<string> technologies = {
-        "Spring Boot",
-        "Node.js",
-        "React",
-        "MongoDB",
-        "AWS",
-        "Docker",
-        "C++"
-    };
+### Interests
 
-    bool lovesBuildingSystems = true;
-};
-
-I'm a Software Engineer passionate about backend development, distributed systems, cloud technologies, and software design.
-
-Currently working at **Raja Software Labs**, where I build production-grade applications, backend services, and scalable software solutions.
-
-### What I Enjoy Building
-
-* ⚙️ Backend Systems
-* 🏗️ Low-Level Design (LLD)
-* ☁️ Cloud & DevOps Solutions
-* 📦 Scalable APIs
-* 🚀 System Design Projects
+* ⚙️ Backend Engineering
+* 🏗️ System Design & Low-Level Design
+* ☁️ Cloud & DevOps
+* 📦 Distributed Systems
+* 🚀 Scalable Architectures
 * 🧠 Data Structures & Algorithms
+
+---
+
+## 🚀 Featured Projects
+
+### 💸 ExpenseFlow
+
+Expense sharing and debt settlement platform inspired by Splitwise.
+
+**Highlights**
+
+* Equal, Exact, and Percentage-based expense splitting
+* Debt simplification and settlement optimization
+* Strategy, Factory, Observer, and Singleton Patterns
+* Group expense and balance management
+* Validation-driven architecture
+
+**Tech Stack**
+
+`C++17` • `STL` • `OOP` • `SOLID` • `Low-Level Design`
+
+---
+
+### 🎟️ Coupon Management System
+
+Scalable coupon and pricing engine designed using Low-Level Design principles.
+
+**Highlights**
+
+* Dynamic discount strategies
+* Factory + Strategy Patterns
+* Rule-based coupon processing
+* Extensible pricing workflows
+* Modular architecture
+
+**Tech Stack**
+
+`C++17` • `STL` • `Design Patterns` • `Low-Level Design`
+
+---
+
+### ☁️ CloudStack Deploy
+
+AWS deployment project focused on cloud infrastructure and containerization.
+
+**Highlights**
+
+* ECS, ECR, and Fargate deployments
+* Dockerized workloads
+* Secure networking using IAM and VPC
+* Production-style deployment workflows
+
+**Tech Stack**
+
+`AWS` • `Docker` • `ECS` • `ECR` • `Fargate` • `IAM` • `VPC`
+
+---
+
+### ♟️ Chess Master
+
+Real-time multiplayer chess platform using WebSockets.
+
+**Tech Stack**
+
+`React` • `Node.js` • `WebSockets`
+
+---
+
+### 🏋️ FitHub
+
+Fitness management platform with workout tracking and analytics.
+
+**Tech Stack**
+
+`React` • `Node.js` • `MongoDB`
+
+---
+
+### 📊 Sorting Algorithm Visualizer
+
+Interactive platform for visualizing sorting algorithms.
+
+**Tech Stack**
+
+`JavaScript` • `Algorithms` • `Data Structures`
 
 ---
 
@@ -62,11 +120,10 @@ Currently working at **Raja Software Labs**, where I build production-grade appl
 
 **May 2025 – Present**
 
-* Developing and maintaining production-grade backend systems
-* Building scalable REST APIs and business workflows
-* Improving application reliability through debugging and root-cause analysis
-* Working with IoT-integrated validation and automation systems
-* Contributing to testing, optimization, and deployment processes
+* Building scalable backend services and REST APIs
+* Working on IoT-integrated automation systems
+* Improving reliability, performance, and maintainability
+* Contributing to testing, deployment, and production support
 
 ---
 
@@ -74,132 +131,9 @@ Currently working at **Raja Software Labs**, where I build production-grade appl
 
 **Oct 2024 – Apr 2025**
 
-* Developed full-stack applications using React, Next.js, Node.js, and MongoDB
-* Integrated payment gateways and automated communication workflows
-* Improved user experience and application performance
-* Delivered end-to-end business features in an agile environment
-
----
-
-### Additional Internship Experience
-
-* AI Internship
-* Web Development Internship
-* Industry Training Programs
-
----
-
-## 🏗️ System Design & Architecture Projects
-
-### 💸 ExpenseFlow
-
-Splitwise-inspired expense sharing and debt settlement platform built using modern C++.
-
-Highlights:
-
-* Strategy Pattern
-* Factory Pattern
-* Observer Pattern
-* Debt Simplification Engine
-* SOLID Principles
-* Service-Oriented Architecture
-
----
-
-### 💸 ExpenseFlow
-
-Expense sharing and debt settlement platform inspired by Splitwise.
-
-Highlights:
-
-* Equal, Exact, and Percentage-based expense splitting
-* Debt simplification and settlement optimization
-* Strategy, Factory, Observer, and Singleton Patterns
-* Group expense and balance management
-* Validation-driven architecture
-* Modular service-oriented design
-
-Tech Stack:
-
-C++17 • STL • OOP • SOLID Principles • Low-Level Design
-
----
-
-### 🎟️ Coupon Management System
-
-Scalable coupon and pricing engine designed using Low-Level Design principles.
-
-Highlights:
-
-* Dynamic discount strategies
-* Factory + Strategy Patterns
-* Extensible pricing workflows
-* Rule-based coupon processing
-* Modular architecture
-
----
-
-### ☁️ CloudStack Deploy
-
-Cloud deployment project focused on AWS infrastructure and containerization.
-
-Technologies:
-
-* AWS ECS
-* AWS ECR
-* AWS Fargate
-* IAM
-* VPC
-* Docker
-
-Features:
-
-* Containerized deployments
-* Secure cloud networking
-* Automated deployment workflows
-* Production-style infrastructure setup
-
----
-
-## 🚀 Featured Projects
-
-### ♟️ Chess Master
-
-Real-time multiplayer chess platform using WebSockets.
-
-Tech Stack:
-
-React • Node.js • WebSockets
-
----
-
-### 🏋️ FitHub
-
-Fitness management platform with workout tracking and analytics.
-
-Tech Stack:
-
-React • Node.js • MongoDB
-
----
-
-### 📊 Sorting Algorithm Visualizer
-
-Interactive platform for learning sorting algorithms through real-time visualizations.
-
-Tech Stack:
-
-JavaScript • Algorithms • Data Structures
-
----
-
-### 🌐 GrowixTech
-
-SEO-focused business platform built using modern web technologies.
-
-Tech Stack:
-
-Next.js • Node.js • SEO
+* Developed applications using React, Next.js, Node.js, and MongoDB
+* Integrated payment and communication workflows
+* Delivered end-to-end business features in agile environments
 
 ---
 
@@ -242,11 +176,11 @@ Next.js • Node.js • SEO
 ### Core Concepts
 
 * Data Structures & Algorithms
-* Object-Oriented Design
-* Low-Level Design
-* System Design
+* Object-Oriented Programming
 * SOLID Principles
 * Design Patterns
+* Low-Level Design
+* System Design
 
 ---
 
@@ -260,14 +194,12 @@ Next.js • Node.js • SEO
 
 ---
 
-## 🤝 Let's Connect
+## 📫 Connect With Me
 
-📧 Email: [nitkkr.amit07@gmail.com](mailto:nitkkr.amit07@gmail.com)
-
-💼 LinkedIn: linkedin.com/in/techsavvyamit
-
-🌐 Portfolio: portfolio-techsavvyamits-projects.vercel.app
+* 📧 Email: **[nitkkr.amit07@gmail.com](mailto:nitkkr.amit07@gmail.com)**
+* 💼 LinkedIn: **linkedin.com/in/techsavvyamit**
+* 🌐 Portfolio: **portfolio-techsavvyamits-projects.vercel.app**
 
 ---
 
-> "Good code works. Great software scales."
+> Building reliable systems that scale.
