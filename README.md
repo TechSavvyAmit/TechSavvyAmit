@@ -1,171 +1,273 @@
 <div align="center">
 
-[<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=900&color=00F7FF&center=true&vCenter=true&width=800&lines=Amit+-+Software+Engineer;Backend+Developer;System+Design+Enthusiast;Building+Scalable+Systems;Production+Experience" alt="Typing animation" />](https://github.com/TechSavvyAmit)
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,50:0ea5e9,100:06b6d4&text=Amit%20Kumar&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 
-<br/>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=22D3EE&center=true&vCenter=true&width=900&lines=Software+Engineer;Backend+Developer;System+Design+Enthusiast;AWS+%7C+Docker+%7C+Spring+Boot;Building+Scalable+Production+Systems)](https://github.com/TechSavvyAmit)
 
-<!-- 💼 Strong Tagline -->
-### ⚙️ Engineering scalable backend systems • 🧠 Designing clean architectures • 🚀 Delivering real impact
+### 🚀 Software Engineer @ Raja Software Labs
 
-<br/>
-
-<!-- 📬 Contact Badges -->
-<a href="mailto:nitkkr.amit07@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://linkedin.com/in/techsavvyamit">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://portfolio-techsavvyamits-projects.vercel.app">
-  <img src="https://img.shields.io/badge/Portfolio-View-FF6A00?style=for-the-badge&logo=firefox&logoColor=white" />
-</a>
-
-<br/><br/>
-
-<!-- 👁️ Profile Views -->
-<img src="https://komarev.com/ghpvc/?username=TechSavvyAmit&label=Profile%20Views&color=00F7FF&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=TechSavvyAmit&style=for-the-badge&color=0ea5e9"/>
 
 </div>
 
 ---
 
-## 🧠 About Me  
+# 👨‍💻 About Me
 
-I’m a Software Engineer focused on **backend development, system design, and scalable architectures**.
+```cpp
+class Amit {
+public:
+    
+    string role = "Software Engineer";
 
-- 🏢 Currently at **Raja Software Labs**
-- ⚙️ Building **production-grade APIs & backend systems**
-- 📈 Focused on **performance, reliability, and clean code**
-- 🧩 Strong interest in **Low-Level Design (LLD) & architecture**
+    vector<string> interests = {
+        "Backend Development",
+        "System Design",
+        "Cloud Engineering",
+        "Low Level Design",
+        "Scalable Architectures"
+    };
 
-I don’t just write code — I design systems that scale.
+    vector<string> technologies = {
+        "Spring Boot",
+        "Node.js",
+        "React",
+        "MongoDB",
+        "AWS",
+        "Docker",
+        "C++"
+    };
 
----
+    bool lovesBuildingSystems = true;
+};
 
-## 💼 Experience  
+I'm a Software Engineer passionate about backend development, distributed systems, cloud technologies, and software design.
 
-### 🧩 Raja Software Labs *(May 2025 – Present)*  
-**Software Engineer**
-- Built and optimized REST APIs handling **1K+ daily requests**
-- Reduced production issues by **15%** via failure analysis
-- Cut defects by **25%** through structured debugging & RCA
-- Automated testing → reduced manual effort by **30%**
-- Integrated IoT device pipelines for **real-time validation systems**
+Currently working at **Raja Software Labs**, where I build production-grade applications, backend services, and scalable software solutions.
 
----
+### What I Enjoy Building
 
-### 🌐 AIDEOA *(Oct 2024 – Apr 2025)*  
-**Full Stack Developer Intern**
-- Improved user engagement by **20%** via UI/UX enhancements
-- Built secure backend APIs using **Node.js & Express**
-- Integrated **PayU + EmailJS**, reducing manual work by **30%**
-- Delivered full-stack features using **React + Next.js + MongoDB**
-
----
-
-## 🧱 System Design Work  
-
-### 💰 Coupon System Engine (C++ | LLD)
-Scalable discount & pricing engine for e-commerce systems.
-
-- Strategy + Factory patterns for dynamic pricing
-- Rule chaining for flexible coupon application
-- Clean modular architecture (low coupling)
-- Designed for extensibility and real-world use
+* ⚙️ Backend Systems
+* 🏗️ Low-Level Design (LLD)
+* ☁️ Cloud & DevOps Solutions
+* 📦 Scalable APIs
+* 🚀 System Design Projects
+* 🧠 Data Structures & Algorithms
 
 ---
 
-### 🍽️ DishScoutApp (C++ | LLD)
-Food ordering system designed using solid architecture principles.
+## 💼 Professional Experience
 
-- Applied **SOLID principles**
-- Layered structure: models, services, managers
-- Designed for easy feature extension
+### Software Engineer | Raja Software Labs
 
----
+**May 2025 – Present**
 
-## 🚀 Featured Projects  
-
-### ☁️ CloudStack Deploy (AWS + Docker)
-- Deployed containerized applications using **ECS, ECR, Fargate**
-- Configured **VPC, IAM, security groups**
-- Resolved real-world deployment issues (CORS, permissions)
-- Built scalable cloud deployment pipeline
+* Developing and maintaining production-grade backend systems
+* Building scalable REST APIs and business workflows
+* Improving application reliability through debugging and root-cause analysis
+* Working with IoT-integrated validation and automation systems
+* Contributing to testing, optimization, and deployment processes
 
 ---
 
-### 🌍 GrowixTech  
-- SEO optimization → **+40% traffic**
-- Built using **Next.js (SSR) + React**
-- Integrated chatbot & email automation
+### Full Stack Developer | AIDEOA
+
+**Oct 2024 – Apr 2025**
+
+* Developed full-stack applications using React, Next.js, Node.js, and MongoDB
+* Integrated payment gateways and automated communication workflows
+* Improved user experience and application performance
+* Delivered end-to-end business features in an agile environment
 
 ---
 
-### 📊 Shopping Trend Analysis  
-- Data analysis using **Python, pandas, matplotlib**
-- Extracted insights from customer behavior
-- Built strong foundation in data analytics
+### Additional Internship Experience
+
+* AI Internship
+* Web Development Internship
+* Industry Training Programs
 
 ---
 
-### ⚡ Sorting Algorithm Visualizer  
-- Interactive visualization of multiple sorting algorithms
-- Built using D3.js
-- Real-time animations for learning DSA
+## 🏗️ System Design & Architecture Projects
+
+### 💸 ExpenseFlow
+
+Splitwise-inspired expense sharing and debt settlement platform built using modern C++.
+
+Highlights:
+
+* Strategy Pattern
+* Factory Pattern
+* Observer Pattern
+* Debt Simplification Engine
+* SOLID Principles
+* Service-Oriented Architecture
 
 ---
 
-## ⚙️ Tech Stack  
+### 💸 ExpenseFlow
 
-**Languages:**  
-C++ • Java • JavaScript • Python • SQL  
+Expense sharing and debt settlement platform inspired by Splitwise.
 
-**Backend:**  
-Spring Boot • Node.js • Express • REST APIs • MongoDB  
+Highlights:
 
-**Frontend:**  
-React • Next.js • Tailwind • HTML • CSS  
+* Equal, Exact, and Percentage-based expense splitting
+* Debt simplification and settlement optimization
+* Strategy, Factory, Observer, and Singleton Patterns
+* Group expense and balance management
+* Validation-driven architecture
+* Modular service-oriented design
 
-**Cloud & DevOps:**  
-AWS (ECS, ECR, Fargate, IAM) • Docker  
+Tech Stack:
 
-**Core Concepts:**  
-Data Structures & Algorithms • OOP • System Design • SOLID Principles  
-
----
-
-## 🧠 Engineering Mindset  
-
-What I focus on while building systems:
-
-- Designing **modular and extensible architectures**
-- Writing **clean, maintainable code**
-- Thinking in **scalability and trade-offs**
-- Solving problems with **real-world constraints**
+C++17 • STL • OOP • SOLID Principles • Low-Level Design
 
 ---
 
-## 📈 Current Focus  
+### 🎟️ Coupon Management System
 
-- Advanced System Design (LLD + HLD)
-- Backend scalability patterns
-- Production-level architecture
+Scalable coupon and pricing engine designed using Low-Level Design principles.
 
----
+Highlights:
 
-## 🤝 Let’s Connect  
-
-If you're building something interesting or hiring for backend/system roles:
-
-👉 I’m open to opportunities & collaborations  
+* Dynamic discount strategies
+* Factory + Strategy Patterns
+* Extensible pricing workflows
+* Rule-based coupon processing
+* Modular architecture
 
 ---
 
-<div align="center">
+### ☁️ CloudStack Deploy
 
-⭐ *"Good code works. Great code scales."*
+Cloud deployment project focused on AWS infrastructure and containerization.
 
-</div>
+Technologies:
 
-<!-- 🎉 Animated Footer --> 
-<div align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3000&pause=1000&color=FF69B4&width=435&lines=Thanks+for+visiting!+%F0%9F%99%8F;Let's+connect+and+build+something+amazing+%F0%9F%9A%80;Keep+coding+and+stay+awesome+%E2%9C%A8;Open+to+collaborations+and+fun+projects+%F0%9F%8E%89" alt="Footer" /> </div>
+* AWS ECS
+* AWS ECR
+* AWS Fargate
+* IAM
+* VPC
+* Docker
+
+Features:
+
+* Containerized deployments
+* Secure cloud networking
+* Automated deployment workflows
+* Production-style infrastructure setup
+
+---
+
+## 🚀 Featured Projects
+
+### ♟️ Chess Master
+
+Real-time multiplayer chess platform using WebSockets.
+
+Tech Stack:
+
+React • Node.js • WebSockets
+
+---
+
+### 🏋️ FitHub
+
+Fitness management platform with workout tracking and analytics.
+
+Tech Stack:
+
+React • Node.js • MongoDB
+
+---
+
+### 📊 Sorting Algorithm Visualizer
+
+Interactive platform for learning sorting algorithms through real-time visualizations.
+
+Tech Stack:
+
+JavaScript • Algorithms • Data Structures
+
+---
+
+### 🌐 GrowixTech
+
+SEO-focused business platform built using modern web technologies.
+
+Tech Stack:
+
+Next.js • Node.js • SEO
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+
+* C++
+* Java
+* JavaScript
+* Python
+* SQL
+
+### Backend
+
+* Spring Boot
+* Node.js
+* Express.js
+* REST APIs
+* MongoDB
+
+### Frontend
+
+* React
+* Next.js
+* Tailwind CSS
+* HTML
+* CSS
+
+### Cloud & DevOps
+
+* AWS
+* Docker
+* ECS
+* ECR
+* Fargate
+* IAM
+* VPC
+
+### Core Concepts
+
+* Data Structures & Algorithms
+* Object-Oriented Design
+* Low-Level Design
+* System Design
+* SOLID Principles
+* Design Patterns
+
+---
+
+## 📈 Current Focus
+
+* Advanced System Design
+* Scalable Backend Architectures
+* Cloud-Native Applications
+* AWS & Docker
+* Modern C++ Development
+
+---
+
+## 🤝 Let's Connect
+
+📧 Email: [nitkkr.amit07@gmail.com](mailto:nitkkr.amit07@gmail.com)
+
+💼 LinkedIn: linkedin.com/in/techsavvyamit
+
+🌐 Portfolio: portfolio-techsavvyamits-projects.vercel.app
+
+---
+
+> "Good code works. Great software scales."
